@@ -1,0 +1,4 @@
+CREATE TABLE TEST1
+   (	X NUMBER(*,0)
+   ) ;
+
